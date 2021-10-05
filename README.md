@@ -6,6 +6,8 @@
 
 ---
 
+🧪 Para testar o site basta acessar o seguinte [link](http://matador-de-monstros.s3-website-sa-east-1.amazonaws.com).
+
 <br>
 
 🙏 Qualquer sugestão e melhoria é muito bem vinda!
